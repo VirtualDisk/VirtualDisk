@@ -1,7 +1,4 @@
-- 🧚‍♀️ Hi, I’m Zoë.
-- 👩‍💻 I manage systems. Mostly systems that run containers, but other systems as well. 
-- 💃 When I'm not doing that, I take brisk walks through urban parks and I dance. 
-- 📨 You can reach me at zoe@zoeblan.co
+- 🧚‍♀️ Hi, I’m zoe@zoeblan.co
 
 
 
