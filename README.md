@@ -1,6 +1,5 @@
-- 🧚‍♀️ Hi, I’m zoe@zoeblan.co
+feminine entity fixing your infrastructure
 
 <!---
-VirtualDisk/VirtualDisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+digital woman is present. thank you for looking at my repository of things.
 --->
